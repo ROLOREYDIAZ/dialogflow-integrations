@@ -16,7 +16,7 @@
 
 //Insert your values here
 const cmProductToken = 'YOUR_CM_PRODUCT_TOKEN';
-const projectId = 'YOUR_PROJECT_ID';
+const projectId = 'bode-peru';
 
 const express = require('express');
 const request = require('request');
